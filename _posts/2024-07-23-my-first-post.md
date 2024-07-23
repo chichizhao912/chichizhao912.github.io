@@ -12,7 +12,8 @@ To learn software developing, I am currently taking the Odin Project's Foundatio
 Firstly, I learnt the basics of computers and the internet/web, using the resources of 
 This was a good way to learn about servers, IP addresses, and DNS.
 
-**VSCode**
+**VSCode:**
+
 Since I've mostly coded in Spyder before, I learnt how to use VSCode as a new code editor. 
 
 I watched this tutorial on VSCode and it had lots of useful tips and tricks:
@@ -22,13 +23,14 @@ This was a useful tutorial I watched on how to view code output as you code:
 https://www.youtube.com/watch?v=X_TVF96Kqcw 
 
 **Using Shell:**
+
 - Learnt using bash
 - https://swcarpentry.github.io/shell-novice/02-filedir.html
 - https://swcarpentry.github.io/shell-novice/03-create.html
 - Learnt the different commands for shell (ls, cd, pwd, etc.)
 
-_Note to self:
-Use these websites as reference for future_
+_Note to self: Use these websites as reference for future_
 
-**Setting Up Git**
+**Setting Up Git:**
+
 I successfully followed the Odin Project's instructions to set up Git on my laptop. I also created my first SSH key! It went more smoothly than I thought haha. 
