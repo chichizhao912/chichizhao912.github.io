@@ -34,3 +34,17 @@ _Note to self: Use these websites as reference for future_
 **Setting Up Git:**
 
 I successfully followed the Odin Project's instructions to set up Git on my laptop. I also created my first SSH key! It went more smoothly than I thought haha. 
+
+## AI/ML Study
+**Neel Nanda - What is a transformer?**
+I didn't have too much time today, so a quick intrp, I watched Neel Nanda's "What is a transformer video". 
+Link: https://www.youtube.com/watch?v=bOYE6E8JrtU&list=PL7m7hLIqA0hoIUPhC26ASCVs_VrqcDpAz&index=1 
+
+Take-aways:
+- Intro to logits, tokens, vectors (conversions) - with probability distribution
+- Each token prediction uses all the tokens behind it - auto-regressive!
+
+**Plans**
+To get started in mech-interp research, I will go through the steps outlined here: https://www.neelnanda.io/mechanistic-interpretability/prereqs
+
+Now, that's it for today! See you tomorrow ;)
