@@ -34,3 +34,5 @@ I then did lots of practice and built my first web-page! I included:
 - Different headers
 - Images
 
+I also went online and learnt how to use JS to make a password page, so that I could make the website include a password to unlock feature.
+
