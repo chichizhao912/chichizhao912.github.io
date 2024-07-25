@@ -3,6 +3,7 @@
 Hi guys! Today I will be moving onto learning about HTML, CSS, and how to use these languages - very exciting haha. 
 
 ## Foundations Course
+**Progress: 41%**
 First, I learned the difference between HTML, CSS, and JavaScript - and also their different purposes. 
 
 **HTML Basics**
@@ -34,5 +35,7 @@ I then did lots of practice and built my first web-page! I included:
 - Different headers
 - Images
 
-I also went online and learnt how to use JS to make a password page, so that I could make the website include a password to unlock feature.
+I also went online and learnt how to use JS to make a password page, so that I could make the website include a password to unlock feature. I then went and made a funny website for my friend :).
+
+I was very excited to make the website ;).
 
