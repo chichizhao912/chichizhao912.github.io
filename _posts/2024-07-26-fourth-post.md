@@ -1,6 +1,6 @@
-###Day 4 #100DaysOfCode
+### Day 4 #100DaysOfCode
 
-##Foundations Course
+## Foundations Course
 **Progress: 52%**
 Today I will be continuing my "journey of learning" by focusing on CSS. 
 
