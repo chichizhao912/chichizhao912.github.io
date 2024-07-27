@@ -2,7 +2,7 @@
 
 ## Foundations Course
 **Progress: 52%**
-Today I will be continuing my "journey of learning" by focusing on CSS. 
+Today I will be continuing my journey into software development by focusing on CSS. 
 
 I am currently completing the CSS Foundations part of the course. 
 
